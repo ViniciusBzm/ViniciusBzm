@@ -42,7 +42,8 @@
 ⚡ **Outras:** DevOps (conceitos iniciais), Cibersegurança (fundamentos)
 
 ### 🔹 Soft Skills
-🤝 **Trabalho em equipe** | 🗣️ **Comunicação clara** | 🧩 **Resolução de problemas** | 🧠 **Pensamento lógico** | ⚡ **Proatividade** |  🔄 **Adaptabilidade**
+🤝 **Trabalho em equipe** | 🗣️ **Comunicação clara** | 🧩 **Resolução de problemas** | 🧠 **Pensamento lógico** | ⚡ **Proatividade** |  
+🔄 **Adaptabilidade**
 
 ---
 
