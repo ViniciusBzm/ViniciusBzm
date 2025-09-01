@@ -68,19 +68,69 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+🚀 Projetos em Destaque
+📚 Sistema de Biblioteca (Java Web – Projeto Acadêmico)
 
-- *📚 Sistema de Biblioteca (Java Web – Projeto Acadêmico)*  
-  Sistema web para gerenciar livros da Universidade Cesumar, substituindo planilhas. Tecnologias: **Java, Servlets, JSP/JSF, MVC**. Funcionalidades: cadastro, listagem e exclusão com validação de dados.
+Desenvolvi um sistema web para substituir o controle manual de livros da Universidade Cesumar, tornando o gerenciamento mais rápido, seguro e acessível.
+O projeto aplicou conceitos de Java, MVC e Servlets, garantindo uma separação clara entre interface, lógica de negócio e dados.
+Trabalhei no cadastro, listagem e exclusão de livros, com validação para evitar erros de dados.
+Aprendizado: fortaleci minhas habilidades em Java, arquitetura de software e design de interfaces web.
 
-- *🛍 Sistema de Gerenciamento de Pedidos (Protótipos UX/UI – Projeto Acadêmico)*  
-  Protótipos de interface de um sistema de pedidos, com foco em **UX/UI e design centrado no usuário**. Inclui telas de cadastro, menu principal e pedidos com cálculo automático.
+Tecnologias e Ferramentas: Java, Servlets, JSP, JSF, MVC, Eclipse IDE
+Funcionalidades:
 
-- *🚗 Sistema de Vendas de Carros (Java – Projeto Acadêmico de POO)*  
-  Sistema em **Java**, aplicando POO e metodologias ágeis (**Scrum**). Permite cadastro de vendas, clientes e cálculo de valores com descontos.
+Cadastrar livros com validação de dados
 
-- *🎲 Banco de Dados para Locadora de Jogos (Projeto Acadêmico)*  
-  Modelagem e implementação completa em **SQL**, criando banco para controle de clientes e aluguéis, com foco em **integridade, eficiência e segurança**.
+Listar livros de forma dinâmica
+
+Excluir livros por identificador único
+
+🛍 Sistema de Gerenciamento de Pedidos (Protótipos UX/UI – Projeto Acadêmico)
+
+Criei protótipos de interface para um sistema de pedidos de loja, transformando requisitos em soluções visuais intuitivas.
+Desenvolvi telas de cadastro, menu principal e pedidos com cálculo automático, aplicando princípios de UX/UI e design centrado no usuário.
+Aprendizado: desenvolvi minha capacidade de criar interfaces funcionais, claras e agradáveis, antecipando problemas antes da implementação.
+
+Tecnologias e Ferramentas: Pencil Project, princípios de UX/UI, prototipagem desktop/web
+Funcionalidades:
+
+Menu principal com navegação centralizada
+
+Cadastros: categorias, UFs, cidades, produtos, clientes
+
+Tela de pedidos com cálculo automático e tabelas dinâmicas
+
+🚗 Sistema de Vendas de Carros (Java – Projeto Acadêmico de POO)
+
+Desenvolvi um sistema para gerenciar vendas de carros, aplicando POO e metodologias ágeis (Scrum).
+Implementei regras de negócio complexas, como validação de idade mínima e limite de financiamento (30% do salário), garantindo segurança e precisão nos cálculos de vendas.
+Aprendizado: aprofundei conhecimentos em Java, POO, validações de regras de negócio e gestão de projetos ágeis.
+
+Tecnologias e Ferramentas: Java, Eclipse IDE, POO, Scrum
+Funcionalidades:
+
+Cadastro de clientes e vendas
+
+Validação de idade mínima (18 anos)
+
+Restrição de financiamento: parcelas limitadas a 30% do salário
+
+Cálculo de valores com desconto
+
+🎲 Banco de Dados para Locadora de Jogos (Projeto Acadêmico)
+
+Desenvolvi um banco de dados completo para uma locadora de jogos de tabuleiro, garantindo integridade, eficiência e confiabilidade das informações.
+Criei modelagens conceituais, lógicas e físicas, além de implementar todas as tabelas, chaves e restrições em SQL.
+Aprendizado: desenvolvi habilidades em modelagem de dados, análise de requisitos e programação em SQL.
+
+Tecnologias e Ferramentas: SQL, BR Modelo Web
+Funcionalidades:
+
+Modelagem conceitual, lógica e física
+
+Criação de tabelas, chaves e restrições
+
+Banco funcional para cadastro de clientes, jogos e aluguéis
 
 ---
 
