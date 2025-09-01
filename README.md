@@ -69,60 +69,30 @@
 ---
 
 🚀 Projetos em Destaque
-
 📚 Sistema de Biblioteca (Java Web – Projeto Acadêmico)
-Sistema web desenvolvido para gerenciar os livros da Universidade Cesumar, substituindo planilhas manuais e facilitando o controle do acervo.
 
-Tecnologias:
-Java, Servlets, JSP, JSF, MVC, Eclipse IDE
+Sistema web desenvolvido para gerenciar o acervo de livros da Universidade Cesumar, substituindo planilhas manuais e tornando o controle mais rápido e confiável. Permite cadastrar livros com validação de dados, listar livros de forma organizada e dinâmica e excluir registros por identificador único. O projeto seguiu o padrão MVC, garantindo separação clara entre a interface, a lógica de negócio e o acesso a dados, proporcionando manutenção e escalabilidade.
 
-Funcionalidades:
-
-Cadastro de livros com validação
-
-Listagem dinâmica
-
-Exclusão por identificador único
+Tecnologias: Java, Servlets, JSP/JSF, MVC, Eclipse IDE
 
 🛍 Sistema de Gerenciamento de Pedidos (Protótipos UX/UI – Projeto Acadêmico)
-Protótipos de interface de um sistema de pedidos, focado em UX/UI e design centrado no usuário, permitindo testar a experiência antes da implementação.
 
-Tecnologias:
-Pencil Project, princípios de UX/UI, prototipagem desktop/web
+Protótipos de interface de um sistema de pedidos para uma loja de pequeno porte, com foco em experiência do usuário (UX) e design centrado no cliente (UI). As telas permitem visualizar o menu principal, cadastrar categorias, produtos e clientes e gerenciar pedidos com cálculo automático e tabelas dinâmicas. O projeto facilitou testes de usabilidade antes da implementação, garantindo interfaces intuitivas e funcionais.
 
-Funcionalidades:
-
-Menu principal com navegação
-
-Cadastros: categorias, produtos, clientes
-
-Tela de pedidos com cálculo automático
+Tecnologias: Pencil Project, princípios de UX/UI, prototipagem desktop/web
 
 🚗 Sistema de Vendas de Carros (Java – Projeto Acadêmico de POO)
-Sistema para gerenciamento de vendas de carros, aplicando POO e Scrum, com regras de negócio como validação de idade mínima e limite de financiamento.
 
-Tecnologias:
-Java, Eclipse IDE, POO, Scrum
+Sistema em Java para gerenciamento de vendas de carros, aplicando Programação Orientada a Objetos (POO) e metodologias ágeis (Scrum). O sistema permite cadastrar clientes e vendas, realizar cálculos de valores com descontos, além de validar regras de negócio, como idade mínima para clientes e limite de financiamento baseado na renda. O projeto reforçou habilidades em lógica de programação, organização de código e planejamento ágil de projetos.
 
-Funcionalidades:
-
-Cadastro de clientes e vendas
-
-Cálculo de valores com desconto
-
-Validação de regras de negócio
+Tecnologias: Java, Eclipse IDE, POO, Scrum
 
 🎲 Banco de Dados para Locadora de Jogos (Projeto Acadêmico)
-Desenvolvimento de banco de dados completo para locadora de jogos de tabuleiro, garantindo integridade, eficiência e confiabilidade das informações.
 
-Tecnologias:
-SQL, BR Modelo Web
+Desenvolvimento de um banco de dados completo para uma locadora de jogos de tabuleiro, garantindo integridade, eficiência e confiabilidade. Inclui modelagem conceitual, lógica e física, criação de tabelas com chaves e restrições, e gerenciamento de clientes, jogos e aluguéis. O projeto aprimorou competências em modelagem de dados, análise de requisitos e programação SQL, criando uma base estruturada e segura para o controle do negócio.
 
-Funcionalidades:
+Tecnologias: SQL, BR Modelo Web
 
-Modelagem conceitual, lógica e física
-
-Cadastro de clientes, jogos e aluguéis
 ---
 
 ## 🌐 Conecte-se comigo
