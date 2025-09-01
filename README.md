@@ -29,15 +29,15 @@
 
 ### 🔹 Desenvolvimento de Software
 💻 **Linguagens:** `Java` | `JavaScript` | `HTML` | `CSS` | `Python` | `Kotlin`  
-⚙️ **Conceitos:** **POO** | **Estruturas de Dados & Algoritmos** | **Desenvolvimento Web (Servlets, JSP/JSF, MVC)** | **Programação Mobile** | **UX/UI Design & Prototipagem**
+⚙️ **Programação & Conceitos:** **POO** | **Estruturas de Dados & Algoritmos** | **Desenvolvimento Web (Servlets, JSP/JSF, MVC)** | **Programação Mobile** | **UX/UI Design & Prototipagem**
 
 ### 🔹 Banco de Dados
 🗄️ **Modelagem:** DER, BR Modelo Web  
 📊 **SQL:** Consultas, Chaves, Normalização  
-🛠️ **Administração:** Bases de dados
+🛠️ **Administração:** Gestão de bases de dados
 
 ### 🔹 Ferramentas & Metodologias
-🌐 **Controle de Versão:** Git & GitHub  
+🌐 **Versionamento:** Git & GitHub  
 🚀 **Metodologias Ágeis:** Scrum  
 ⚡ **Outras:** DevOps (conceitos iniciais), Cibersegurança (fundamentos)
 
