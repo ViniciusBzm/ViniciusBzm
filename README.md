@@ -7,51 +7,78 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-</div>
+🌐 Onde me encontrar
+<p align="center"> <a href="https://www.linkedin.com/in/vinicius-zem" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:viniciusbzm@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/ViniciusBzm"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+🛠️ Tecnologias e Ferramentas
+<div style="display: inline_block"><br> <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <img align="center" alt="Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"> <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> <img align="center" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> </div>
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
+💡 Competências
+🔹 Desenvolvimento de Software
 
-  <!-- Stats gerais -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusBzm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+Java | JavaScript | HTML | CSS | Python | Kotlin
 
-  <!-- Linguagens mais usadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBzm&layout=compact&langs_count=7&theme=tokyonight"/>
+Programação Orientada a Objetos (POO)
 
-  <!-- Streak de commits -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusBzm&theme=tokyonight"/>
+Estruturas de Dados e Algoritmos
 
-</div>
+Desenvolvimento Web (Servlets, JSP/JSF, MVC)
+
+Programação Mobile
+
+UX/UI Design e Prototipagem
+
+🔹 Banco de Dados
+
+Modelagem (DER, BR Modelo Web)
+
+SQL (consultas, chaves, normalização)
+
+Administração de bases de dados
+
+🔹 Infraestrutura & Suporte Técnico
+
+Montagem e manutenção de computadores
+
+Sistemas Operacionais (Windows, Linux, Android)
+
+Redes cabeadas e wireless
+
+Servidores Windows/Linux
+
+Automação e projetos com Arduino
+
+🔹 Ferramentas & Metodologias
+
+Git & GitHub
+
+Metodologias Ágeis (Scrum)
+
+DevOps (conceitos iniciais)
+
+Cibersegurança (fundamentos)
+
+🔹 Soft Skills
+
+Trabalho em equipe | Comunicação clara
+
+Resolução de problemas | Pensamento lógico
+
+Proatividade | Adaptabilidade
 
 ---
 
-## 🚀 Projetos em Destaque
-
-- **📚 Sistema de Biblioteca (Java Web – Projeto Acadêmico)**  
-  Sistema para gerenciar livros da Universidade Cesumar, substituindo planilhas por uma solução web com **Java, Servlets, JSP/JSF e MVC**. Funcionalidades: cadastro, listagem e exclusão de livros com validação de dados.
-
-- **🛍️ Sistema de Gerenciamento de Pedidos (Protótipos UX/UI – Projeto Acadêmico)**  
-  Protótipos de interface de um sistema de pedidos para loja, incluindo telas de **cadastros, menu principal e pedidos com cálculo automático**, focando em **UX/UI e design centrado no usuário**.
-
-- **🚗 Sistema de Vendas de Carros (Java – Projeto Acadêmico de POO)**  
-  Sistema em **Java** aplicando POO, regras de negócio, validações e metodologias ágeis (Scrum), permitindo cadastro de vendas, clientes e cálculo de valores com descontos.
-
-- **🎲 Banco de Dados para Locadora de Jogos (Projeto Acadêmico)**  
-  Modelagem e implementação completa em **SQL**, criando banco para controle de clientes e aluguéis, com foco em integridade, eficiência e segurança das informações.
+📊 GitHub Stats
+<div align="center"> <a href="https://github.com/ViniciusBzm"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusBzm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBzm&layout=compact&langs_count=7&theme=tokyonight"/> </a> </div>
 
 ---
 
-## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-zem)
+🚀 Projetos em Destaque
+
+📌 Sistema de Gerenciamento de Biblioteca
+📌 Aplicativo de Vendas de Morangos do Amor
+📌 Protótipos UX/UI no Figma
+📌 Projetos acadêmicos de Banco de Dados e Estruturas de Dados
+
+✨ Sempre aberto a aprender novas tecnologias e colaborar em projetos inovadores.
