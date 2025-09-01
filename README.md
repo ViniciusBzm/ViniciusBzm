@@ -29,16 +29,16 @@
 
 ### 🔹 Desenvolvimento de Software
 `Java` | `JavaScript` | `HTML` | `CSS` | `Python` | `Kotlin`  
-**POO** | **Estruturas de Dados e Algoritmos** | **Desenvolvimento Web (Servlets, JSP/JSF, MVC)** | **Programação Mobile** | **UX/UI Design e Prototipagem**
+Programação Orientada a Objetos (POO) | Estruturas de Dados e Algoritmos | Desenvolvimento Web (Servlets, JSP/JSF, MVC) | Programação Mobile | UX/UI Design e Prototipagem
 
 ### 🔹 Banco de Dados
-**Modelagem** (DER, BR Modelo Web) | **SQL** (consultas, chaves, normalização) | **Administração de Bases de Dados**
+Modelagem (DER, BR Modelo Web) | SQL (consultas, chaves, normalização) | Administração de bases de dados
 
 ### 🔹 Ferramentas & Metodologias
-**Git & GitHub** | **Metodologias Ágeis (Scrum)** | **DevOps (conceitos iniciais)** | **Cibersegurança (fundamentos)**
+Git & GitHub | Metodologias Ágeis (Scrum) | DevOps (conceitos iniciais) | Cibersegurança (fundamentos)
 
 ### 🔹 Soft Skills
-**Trabalho em equipe** | **Comunicação clara** | **Resolução de problemas** | **Pensamento lógico** | **Proatividade** | **Adaptabilidade**
+Trabalho em equipe | Comunicação clara | Resolução de problemas | Pensamento lógico | Proatividade | Adaptabilidade
 
 ---
 
