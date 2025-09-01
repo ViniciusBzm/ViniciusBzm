@@ -37,4 +37,4 @@
 ---
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](www.linkedin.com/in/vinicius-zem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viniciusbzem)
