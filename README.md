@@ -30,11 +30,20 @@
 ---
 
 ## 🚀 Projetos em Destaque
-- [📦 Sistema de Gerenciamento de Pedidos](#)  
-- [🍓 App de Vendas de Morangos do Amor](#)  
-- [📚 Sistema de Biblioteca Universitária](#)  
+
+- **📚 Sistema de Biblioteca (Java Web – Projeto Acadêmico)**  
+  Sistema para gerenciar livros da Universidade Cesumar, substituindo planilhas por uma solução web com **Java, Servlets, JSP/JSF e MVC**. Funcionalidades: cadastro, listagem e exclusão de livros com validação de dados.
+
+- **🛍️ Sistema de Gerenciamento de Pedidos (Protótipos UX/UI – Projeto Acadêmico)**  
+  Protótipos de interface de um sistema de pedidos para loja, incluindo telas de **cadastros, menu principal e pedidos com cálculo automático**, focando em **UX/UI e design centrado no usuário**.
+
+- **🚗 Sistema de Vendas de Carros (Java – Projeto Acadêmico de POO)**  
+  Sistema em **Java** aplicando POO, regras de negócio, validações e metodologias ágeis (Scrum), permitindo cadastro de vendas, clientes e cálculo de valores com descontos.
+
+- **🎲 Banco de Dados para Locadora de Jogos (Projeto Acadêmico)**  
+  Modelagem e implementação completa em **SQL**, criando banco para controle de clientes e aluguéis, com foco em integridade, eficiência e segurança das informações.
 
 ---
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-zem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-zem)
