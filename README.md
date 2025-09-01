@@ -23,11 +23,17 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <a href="https://github.com/ViniciusBzm">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusBzm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBzm&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>  
+
+  <!-- Stats gerais -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusBzm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <!-- Linguagens mais usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBzm&layout=compact&langs_count=7&theme=tokyonight"/>
+
+  <!-- Streak de commits -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusBzm&theme=tokyonight"/>
+
+</div>
 
 ---
 
