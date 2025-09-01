@@ -29,7 +29,8 @@
 
 ### 🔹 Desenvolvimento de Software
 💻 **Linguagens:** `Java` | `JavaScript` | `HTML` | `CSS` | `Python` | `Kotlin`  
-⚙️ **Programação & Conceitos:** **POO** | **Estruturas de Dados & Algoritmos** | **Desenvolvimento Web (Servlets, JSP/JSF, MVC)** | **Programação Mobile** | **UX/UI Design & Prototipagem**
+⚙️ **Programação & Conceitos:** **POO** | **Estruturas de Dados & Algoritmos** | **Desenvolvimento Web (Servlets, JSP/JSF, MVC)** | 
+**Programação Mobile** | **UX/UI Design & Prototipagem**
 
 ### 🔹 Banco de Dados
 🗄️ **Modelagem:** DER, BR Modelo Web  
