@@ -91,10 +91,11 @@ Sistema em Java para gerenciamento de vendas de carros, aplicando **Programaçã
 
 ---
 
-### 🎲 Banco de Dados para Locadora de Jogos (Projeto Acadêmico)
-Desenvolvimento de um banco de dados completo para uma locadora de jogos de tabuleiro, garantindo **integridade, eficiência e confiabilidade**. Inclui **modelagem conceitual, lógica e física**, criação de tabelas com **chaves e restrições**, e gerenciamento de **clientes, jogos e aluguéis**. O projeto aprimorou competências em **modelagem de dados, análise de requisitos e programação SQL**, criando uma base estruturada e segura para o controle do negócio.
+### 🎲 Banco de Dados para Locadora de Jogos (Projeto Acadêmico)  
+Desenvolvimento de um banco de dados completo para uma locadora de jogos de tabuleiro, garantindo integridade, eficiência e confiabilidade. Inclui modelagem conceitual, lógica e física, criação de tabelas com chaves e restrições, e gerenciamento de clientes, jogos e aluguéis. O projeto aprimorou competências em modelagem de dados, análise de requisitos e programação SQL, criando uma base estruturada e segura para o controle do negócio.  
 
-**Tecnologias:** SQL, BR Modelo Web
+**Tecnologias:** SQL, BR Modelo Web  
+[![Ver Projeto no GitHub](https://img.shields.io/badge/Locadora%20de%20Jogos-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniciusBzm/locadora-jogos)
 
 ---
 
