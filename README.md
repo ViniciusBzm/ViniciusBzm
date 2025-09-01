@@ -72,24 +72,57 @@
 
 📚 Sistema de Biblioteca (Java Web – Projeto Acadêmico)
 Sistema web desenvolvido para gerenciar os livros da Universidade Cesumar, substituindo planilhas manuais e facilitando o controle do acervo.
-Tecnologias: Java, Servlets, JSP, JSF, MVC, Eclipse IDE
-Funcionalidades: cadastro de livros com validação, listagem dinâmica e exclusão por identificador único
+
+Tecnologias:
+Java, Servlets, JSP, JSF, MVC, Eclipse IDE
+
+Funcionalidades:
+
+Cadastro de livros com validação
+
+Listagem dinâmica
+
+Exclusão por identificador único
 
 🛍 Sistema de Gerenciamento de Pedidos (Protótipos UX/UI – Projeto Acadêmico)
-Protótipos de interface de um sistema de pedidos, focado em UX/UI e design centrado no usuário, permitindo visualizar e testar a experiência antes da implementação.
-Tecnologias: Pencil Project, princípios de UX/UI, prototipagem desktop/web
-Funcionalidades: menu principal, cadastros (categorias, produtos, clientes) e pedidos com cálculo automático
+Protótipos de interface de um sistema de pedidos, focado em UX/UI e design centrado no usuário, permitindo testar a experiência antes da implementação.
+
+Tecnologias:
+Pencil Project, princípios de UX/UI, prototipagem desktop/web
+
+Funcionalidades:
+
+Menu principal com navegação
+
+Cadastros: categorias, produtos, clientes
+
+Tela de pedidos com cálculo automático
 
 🚗 Sistema de Vendas de Carros (Java – Projeto Acadêmico de POO)
 Sistema para gerenciamento de vendas de carros, aplicando POO e Scrum, com regras de negócio como validação de idade mínima e limite de financiamento.
-Tecnologias: Java, Eclipse IDE, POO, Scrum
-Funcionalidades: cadastro de clientes e vendas, cálculo de valores com desconto, validações de regras de negócio
+
+Tecnologias:
+Java, Eclipse IDE, POO, Scrum
+
+Funcionalidades:
+
+Cadastro de clientes e vendas
+
+Cálculo de valores com desconto
+
+Validação de regras de negócio
 
 🎲 Banco de Dados para Locadora de Jogos (Projeto Acadêmico)
 Desenvolvimento de banco de dados completo para locadora de jogos de tabuleiro, garantindo integridade, eficiência e confiabilidade das informações.
-Tecnologias: SQL, BR Modelo Web
-Funcionalidades: modelagem conceitual, lógica e física, cadastro de clientes, jogos e aluguéis
 
+Tecnologias:
+SQL, BR Modelo Web
+
+Funcionalidades:
+
+Modelagem conceitual, lógica e física
+
+Cadastro de clientes, jogos e aluguéis
 ---
 
 ## 🌐 Conecte-se comigo
