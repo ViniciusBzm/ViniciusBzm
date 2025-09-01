@@ -71,24 +71,24 @@
 🚀 Projetos em Destaque
 
 📚 Sistema de Biblioteca (Java Web – Projeto Acadêmico)
-Sistema web para gerenciar livros da Universidade Cesumar, substituindo planilhas.
+Sistema web desenvolvido para gerenciar os livros da Universidade Cesumar, substituindo planilhas manuais e facilitando o controle do acervo.
 Tecnologias: Java, Servlets, JSP, JSF, MVC, Eclipse IDE
-Funcionalidades: cadastro, listagem e exclusão com validação de dados
+Funcionalidades: cadastro de livros com validação, listagem dinâmica e exclusão por identificador único
 
 🛍 Sistema de Gerenciamento de Pedidos (Protótipos UX/UI – Projeto Acadêmico)
-Protótipos de interface de um sistema de pedidos, com foco em UX/UI e design centrado no usuário.
+Protótipos de interface de um sistema de pedidos, focado em UX/UI e design centrado no usuário, permitindo visualizar e testar a experiência antes da implementação.
 Tecnologias: Pencil Project, princípios de UX/UI, prototipagem desktop/web
-Funcionalidades: telas de cadastro, menu principal e pedidos com cálculo automático
+Funcionalidades: menu principal, cadastros (categorias, produtos, clientes) e pedidos com cálculo automático
 
 🚗 Sistema de Vendas de Carros (Java – Projeto Acadêmico de POO)
-Sistema em Java, aplicando POO e metodologias ágeis (Scrum).
+Sistema para gerenciamento de vendas de carros, aplicando POO e Scrum, com regras de negócio como validação de idade mínima e limite de financiamento.
 Tecnologias: Java, Eclipse IDE, POO, Scrum
-Funcionalidades: cadastro de vendas e clientes, cálculo de valores com descontos
+Funcionalidades: cadastro de clientes e vendas, cálculo de valores com desconto, validações de regras de negócio
 
 🎲 Banco de Dados para Locadora de Jogos (Projeto Acadêmico)
-Modelagem e implementação completa em SQL, criando banco para controle de clientes e aluguéis.
+Desenvolvimento de banco de dados completo para locadora de jogos de tabuleiro, garantindo integridade, eficiência e confiabilidade das informações.
 Tecnologias: SQL, BR Modelo Web
-Funcionalidades: cadastro de clientes, jogos e aluguéis, garantindo integridade e eficiência
+Funcionalidades: modelagem conceitual, lógica e física, cadastro de clientes, jogos e aluguéis
 
 ---
 
