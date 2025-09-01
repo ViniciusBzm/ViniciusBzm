@@ -28,17 +28,21 @@
 ## 💡 Competências
 
 ### 🔹 Desenvolvimento de Software
-`Java` | `JavaScript` | `HTML` | `CSS` | `Python` | `Kotlin`  
-Programação Orientada a Objetos (POO) | Estruturas de Dados e Algoritmos | Desenvolvimento Web (Servlets, JSP/JSF, MVC) | Programação Mobile | UX/UI Design e Prototipagem
+💻 **Linguagens:** `Java` | `JavaScript` | `HTML` | `CSS` | `Python` | `Kotlin`  
+⚙️ **Conceitos:** **POO** | **Estruturas de Dados & Algoritmos** | **Desenvolvimento Web (Servlets, JSP/JSF, MVC)** | **Programação Mobile** | **UX/UI Design & Prototipagem**
 
 ### 🔹 Banco de Dados
-Modelagem (DER, BR Modelo Web) | SQL (consultas, chaves, normalização) | Administração de bases de dados
+🗄️ **Modelagem:** DER, BR Modelo Web  
+📊 **SQL:** Consultas, Chaves, Normalização  
+🛠️ **Administração:** Bases de dados
 
 ### 🔹 Ferramentas & Metodologias
-Git & GitHub | Metodologias Ágeis (Scrum) | DevOps (conceitos iniciais) | Cibersegurança (fundamentos)
+🌐 **Controle de Versão:** Git & GitHub  
+🚀 **Metodologias Ágeis:** Scrum  
+⚡ **Outras:** DevOps (conceitos iniciais), Cibersegurança (fundamentos)
 
 ### 🔹 Soft Skills
-Trabalho em equipe | Comunicação clara | Resolução de problemas | Pensamento lógico | Proatividade | Adaptabilidade
+🤝 **Trabalho em equipe** | 🗣️ **Comunicação clara** | 🧩 **Resolução de problemas** | 🧠 **Pensamento lógico** | ⚡ **Proatividade** | 🔄 **Adaptabilidade**
 
 ---
 
