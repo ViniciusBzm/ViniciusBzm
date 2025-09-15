@@ -62,7 +62,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBzm&layout=compact&langs_count=7&theme=tokyonight"/>
 
 **Streak de commits**  
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusBzm&theme=tokyonight"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=ViniciusBzm&theme=tokyonight"/>
 
 </div>
 
