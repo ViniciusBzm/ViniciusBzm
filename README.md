@@ -1,7 +1,7 @@
 # Vinicius Bortolazzo Zem
 Full Stack Developer | Software Development & Automation
 
-Location: São Paulo, Brazil
+Location: Piracicaba, São Paulo
 
 ## Summary
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, desenvolvendo projetos tanto de **Front-end quanto Back-end**, além de automações e integrações entre sistemas. Atualmente participo do programa **Vem Ser Dev – PECEGE**, aplicando Node.js, TypeScript, React, C#/.NET, bancos de dados e automações com N8N.
