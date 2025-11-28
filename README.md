@@ -52,4 +52,4 @@ Busco oportunidades como **desenvolvedor júnior ou estagiário full stack**, on
 
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-zem)  
-[GitHub](https://github.com/ViniciusBzm)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniciusBzm)
