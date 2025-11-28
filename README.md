@@ -1,116 +1,55 @@
-# Olá, eu sou o Vinicius
+# Vinicius Bortolazzo Zem
+Full Stack Developer | Software Development & Automation
 
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e em formação para atuar como **desenvolvedor back-end / full stack**, com foco em APIs, automação e integração entre sistemas. Atualmente evoluo minhas habilidades em C#, .NET, Node.js, N8N, eletrônica e IoT.
+Location: São Paulo, Brazil
 
----
+## Summary
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, desenvolvendo projetos tanto de **Front-end quanto Back-end**, além de automações e integrações entre sistemas. Atualmente participo do programa **Vem Ser Dev – PECEGE**, aplicando Node.js, TypeScript, React, C#/.NET, bancos de dados e automações com N8N.
 
-## Sobre mim
-
-Estou construindo minha trajetória em desenvolvimento de software, com interesse especial em back-end, bancos de dados, automação de processos e soluções que conectem hardware e software.
-
-Atualmente estudo e aplico:
-
-- C# / .NET (APIs, Entity Framework, SQL Server)  
-- Node.js + TypeScript (Fastify, Knex ORM)  
-- Automação com N8N (webhooks, APIs e integrações)  
-- React.js, HTML, CSS/Tailwind  
-- Arduino e eletrônica básica  
-- Git, GitHub e boas práticas de versionamento  
-
-Busco sempre aprender na prática, criando projetos, explorando arquiteturas e desenvolvendo soluções reais.
+Busco oportunidades como **desenvolvedor júnior ou estagiário full stack**, onde posso aplicar meus conhecimentos em desenvolvimento web, APIs, automação e integração hardware/software (IoT), aprendendo com profissionais experientes e contribuindo para soluções eficientes e escaláveis.
 
 ---
 
-## Formação e Programas
+## 📊 GitHub Stats
 
-### Vem Ser Dev – PECEGE  
-Programa de capacitação com foco em desenvolvimento full stack, projetos reais e mentorias.  
-Habilidades desenvolvidas:
-
-- Arquitetura Web (Back-end, Front-end e noções de DevOps)  
-- Banco de Dados e Estruturas de Dados  
-- Levantamento de Requisitos  
-- UX/UI e prototipação  
-- Fundamentos de cibersegurança  
-- Gestão de projetos e carreira  
-
-### Cursos Complementares
-
-- **TIVIT – Bootcamp .NET com GitHub Copilot**  
-  APIs REST, boas práticas, Clean Architecture e versionamento.
-
-- **Santander 2025 – Automação com N8N**  
-  Criação de automações, integrações via API e orquestração de dados.
+![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusBzm&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBzm&layout=compact&theme=default)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=ViniciusBzm&theme=default)
 
 ---
 
-## Tecnologias e Ferramentas
+## 💻 Tech Stack
 
 ### Back-end
-- C# / .NET  
-- Node.js  
-- TypeScript  
-- Fastify  
-- Knex  
-- SQL Server  
-- PostgreSQL  
+![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![CSharp](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 
 ### Front-end
-- React.js  
-- JavaScript  
-- HTML5, CSS3 e Tailwind  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white)
+
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![SQLServer](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 ### Automação & IoT
-- N8N  
-- Arduino  
+![N8N](https://img.shields.io/badge/n8n-EA4A78?logo=n8n&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 
-### Design e Prototipagem
-- Figma  
-
-### Versionamento
-- Git e GitHub  
-
----
-
-## Competências
-
-- Desenvolvimento Back-end (C#, Node.js)  
-- Criação e consumo de APIs REST  
-- POO, lógica, estruturas de dados e boas práticas  
-- Automação de processos e integrações  
-- Modelagem e administração de bancos de dados  
-- Integração hardware/software (IoT)  
-- UX/UI e prototipação  
-
-**Soft Skills:** comunicação, resolução de problemas, trabalho em equipe, proatividade e adaptabilidade.
-
----
-
-## Projetos em Destaque
-
-### Sistema de Biblioteca (Java Web – Projeto Acadêmico)  
-Sistema web para gerenciamento de acervo, utilizando Servlets, JSP/JSF e padrão MVC.  
-**Tecnologias:** Java, JSP/JSF, MVC, Eclipse.
-
----
-
-### Sistema de Gerenciamento de Pedidos (UX/UI)  
-Protótipos de um sistema de pedidos com foco em experiência do usuário.  
-**Ferramentas:** Pencil Project, princípios de UX/UI.
-
----
-
-### Sistema de Vendas de Carros (Java – POO)  
-Aplicação para cadastro de clientes e vendas, com validações e regras de negócio.  
-**Tecnologias:** Java, POO, Scrum.
-
----
-
-### Banco de Dados para Locadora de Jogos  
-Modelagem conceitual, lógica e física completa, com criação de tabelas e consultas SQL.  
-**Tecnologias:** SQL, BR Modelo Web.
+### Ferramentas & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ---
 
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-zem)  
+[GitHub](https://github.com/ViniciusBzm)
