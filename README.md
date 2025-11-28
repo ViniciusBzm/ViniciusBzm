@@ -4,7 +4,7 @@ Full Stack Developer | Software Development & Automation
 Location: Piracicaba, São Paulo
 
 ## Summary
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, desenvolvendo projetos tanto de **Front-end quanto Back-end**, além de automações e integrações entre sistemas. Atualmente participo do programa **Vem Ser Dev – PECEGE**, aplicando Node.js, TypeScript, React, C#/.NET, bancos de dados e automações com N8N.
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, desenvolvendo projetos tanto de **Front-end quanto Back-end**, além de automações e integrações entre sistemas. Atualmente participo do programa **Vem Ser Dev – PECEGE**, aplicando Node.js, TypeScript, React, bancos de dados e automações com N8N.
 
 Busco oportunidades como **desenvolvedor júnior ou estagiário full stack**, onde posso aplicar meus conhecimentos em desenvolvimento web, APIs, automação e integração hardware/software (IoT), aprendendo com profissionais experientes e contribuindo para soluções eficientes e escaláveis.
 
