@@ -10,6 +10,19 @@ Busco oportunidades como **desenvolvedor júnior ou estagiário full stack**, on
 
 ---
 
+## 📚 Estudos e Capacitação
+
+Atualmente estou aprofundando meus estudos em **Node.js, TypeScript, React.js, desenvolvimento de APIs, Git/GitHub, PostgreSQL, automação com N8N, Arduino, eletrônica e IoT**, criando pequenos projetos que reforçam minha lógica de programação e ampliam meu entendimento sobre a integração entre hardware e software.
+
+Além disso, estou matriculado em programas de capacitação complementares:
+
+- **Bootcamp TIVIT – .NET com GitHub Copilot**: desenvolvimento back-end, boas práticas, APIs REST, versionamento e automação do ciclo de desenvolvimento.  
+- **Santander 2025 – Automação com N8N**: criação de automações com webhooks, APIs, manipulação de dados e integrações entre sistemas.
+
+Esses estudos e programas me permitem aprimorar minhas habilidades técnicas, explorar novas tecnologias e aplicar conceitos de forma prática em projetos reais.
+
+---
+
 ## 📊 GitHub Stats
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusBzm&show_icons=true&theme=default)  
