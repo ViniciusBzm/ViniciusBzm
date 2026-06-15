@@ -114,27 +114,6 @@ O objetivo foi criar uma estrutura organizada, consistente e preparada para arma
 
 ---
 
-### 🌐 NXT Digital Solutions
-
-Projeto pessoal voltado à criação de sites, landing pages e soluções digitais para pequenos negócios.
-
-A proposta é desenvolver soluções com foco em presença online, captação de leads, visual profissional, responsividade e facilidade de contato com o cliente final.
-
-**Principais pontos do projeto:**
-
-- Site institucional responsivo
-- Landing page comercial
-- Formulário de orçamento
-- Integração com WhatsApp
-- Alternância entre tema claro e escuro
-- Estrutura pensada para SEO, performance e conversão
-- Evolução futura para blog, área administrativa e portfólio dinâmico
-
-**Tecnologias utilizadas:**  
-`HTML` `CSS` `JavaScript` `PHP` `React` `Tailwind CSS`
-
----
-
 ## 🧪 Qualidade de Software como diferencial
 
 Além do desenvolvimento, também estudo **Qualidade e Teste de Software**, o que me ajuda a olhar para os projetos com mais atenção a detalhes como:
