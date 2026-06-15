@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Vinicius Zem
 
-## Desenvolvedor de Software | Java | Banco de Dados | Qualidade de Software
+## Desenvolvedor de Software | React | Qualidade de Software
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso pós-graduação em **Qualidade e Teste de Software**.
 
