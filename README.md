@@ -24,13 +24,38 @@ Também tenho conhecimentos em **Git/GitHub, SQL, MySQL, Java, testes manuais, v
   <img src="https://skillicons.dev/icons?i=java,mysql,git,github" />
 </p>
 
-### Qualidade e ferramentas
+### Qualidade e testes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
-`Testes Manuais` `Casos de Teste` `Validação de Funcionalidades` `Jira` `Scrum` `Kanban`
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testes%20Manuais-QA-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Casos%20de%20Teste-QA-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Validação%20de%20Funcionalidades-QA-555555?style=for-the-badge" />
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,figma,vscode" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Scrum-Agile-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kanban-Agile-555555?style=for-the-badge" />
+</p>
+
+### Inteligência artificial no desenvolvimento
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
+
+Uso ferramentas de IA como apoio em desenvolvimento, análise de código, documentação, testes e estudo técnico.
 
 ---
 
@@ -71,11 +96,11 @@ Atuei no front-end com construção e ajustes de telas, responsividade, componen
 
 ## 📚 Projetos acadêmicos
 
-Durante a graduação em Análise e Desenvolvimento de Sistemas, desenvolvi projetos envolvendo desenvolvimento web, banco de dados, orientação a objetos, levantamento de requisitos e UX/UI.
+Durante a graduação em Análise e Desenvolvimento de Sistemas, desenvolvi projetos envolvendo desenvolvimento web, banco de dados, programação orientada a objetos, requisitos e UX/UI.
 
 ### 📖 Sistema Web para Biblioteca Universitária
 
-Sistema desenvolvido em Java para gerenciamento de livros, aplicando arquitetura MVC, programação orientada a objetos e separação de responsabilidades.
+Sistema acadêmico desenvolvido para gerenciamento de livros utilizando Java Web, arquitetura MVC e conceitos de programação orientada a objetos.
 
 **Tecnologias:**
 `Java` `Servlets` `JSP/JSF` `MVC` `POO`
@@ -93,7 +118,7 @@ Projeto de modelagem conceitual, lógica e física de um banco de dados relacion
 
 ### 🚗 Sistema de Vendas de Carros
 
-Projeto desenvolvido em Java para aplicação de conceitos de programação orientada a objetos e regras de negócio.
+Projeto desenvolvido em Java aplicando conceitos de programação orientada a objetos e regras de negócio.
 
 **Tecnologias:**
 `Java` `POO`
@@ -102,7 +127,7 @@ Projeto desenvolvido em Java para aplicação de conceitos de programação orie
 
 ### 🛒 Protótipo de Sistema de Pedidos
 
-Projeto acadêmico envolvendo levantamento de requisitos, organização de fluxos e prototipação de interface.
+Projeto acadêmico envolvendo levantamento de requisitos, definição de fluxos e prototipação de interface.
 
 **Práticas:**
 `Requisitos` `UX/UI` `Prototipação`
@@ -111,11 +136,13 @@ Projeto acadêmico envolvendo levantamento de requisitos, organização de fluxo
 
 ## 🎓 Formação
 
-**Pós-graduação em Qualidade e Teste de Software**
-UniCesumar — Cursando
+### Pós-graduação em Qualidade e Teste de Software
 
-**Tecnólogo em Análise e Desenvolvimento de Sistemas**
-UniCesumar — Concluído em 2025
+**UniCesumar** — Cursando
+
+### Tecnólogo em Análise e Desenvolvimento de Sistemas
+
+**UniCesumar** — Concluído em 2025
 
 ---
 
@@ -131,7 +158,7 @@ UniCesumar — Concluído em 2025
 ## 📚 Atualmente estudando
 
 * React e TypeScript
-* APIs REST
+* Integração e consumo de APIs REST
 * Testes de API com Postman
 * Playwright e Cypress
 * Qualidade e automação de testes
