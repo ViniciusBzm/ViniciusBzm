@@ -31,10 +31,10 @@ Também tenho conhecimentos em **Git/GitHub, SQL, MySQL, Java, testes manuais, v
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Testes%20Manuais-QA-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Casos%20de%20Teste-QA-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Validação%20de%20Funcionalidades-QA-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testes%20Manuais-444444?style=flat" />
+  <img src="https://img.shields.io/badge/Casos%20de%20Teste-444444?style=flat" />
+  <img src="https://img.shields.io/badge/Validação%20de%20Funcionalidades-444444?style=flat" />
 </p>
 
 ### Ferramentas
@@ -44,18 +44,20 @@ Também tenho conhecimentos em **Git/GitHub, SQL, MySQL, Java, testes manuais, v
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Scrum-Agile-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kanban-Agile-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scrum-444444?style=flat" />
+  <img src="https://img.shields.io/badge/Kanban-444444?style=flat" />
 </p>
 
 ### Inteligência artificial no desenvolvimento
 
 <p>
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" />
 </p>
 
-Uso ferramentas de IA como apoio em desenvolvimento, análise de código, documentação, testes e estudo técnico.
+Uso IA como apoio em desenvolvimento, análise de código, testes, documentação e estudo técnico.
 
 ---
 
