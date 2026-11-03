@@ -1,176 +1,78 @@
-# 👋 Olá, eu sou o Vinicius Zem
+<div align="center">
 
-## Desenvolvedor de Software Júnior | React | TypeScript | Qualidade de Software
+  <p><sub>DESENVOLVIMENTO DE SOFTWARE &nbsp;·&nbsp; IA APLICADA &nbsp;·&nbsp; QUALIDADE</sub></p>
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso pós-graduação em **Qualidade e Teste de Software**.
+  <h1>Vinicius Zem</h1>
 
-Tenho foco em desenvolvimento front-end com **React, TypeScript, JavaScript, HTML, CSS e Tailwind CSS**, trabalhando com interfaces responsivas e componentizadas.
+  <p><strong>Construo, testo e explico o que entrego.</strong></p>
 
-Também tenho conhecimentos em **Git/GitHub, SQL, MySQL, Java, testes manuais, validação de funcionalidades e documentação de bugs**.
+  <p>Desenvolvedor de Software Júnior, formado em Análise e Desenvolvimento de Sistemas<br>e pós-graduado em Qualidade e Teste de Software.</p>
 
----
+  <p>Transformo problemas em soluções que possam ser <strong>compreendidas, verificadas e evoluídas</strong>.</p>
 
-## 🧰 Tecnologias
+  <a href="https://www.linkedin.com/in/vinicius-zem/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:viniciusbzem.dev@gmail.com"><img src="https://img.shields.io/badge/E--mail-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="#projetos-em-destaque"><img src="https://img.shields.io/badge/Ver%20projetos-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Ver projetos"></a>
 
-### Front-end
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" />
-</p>
-
-### Desenvolvimento e dados
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,mysql,git,github" />
-</p>
-
-### Qualidade e testes
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postman" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Testes%20Manuais-444444?style=flat" />
-  <img src="https://img.shields.io/badge/Casos%20de%20Teste-444444?style=flat" />
-  <img src="https://img.shields.io/badge/Validação%20de%20Funcionalidades-444444?style=flat" />
-</p>
-
-### Ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,figma,vscode" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Scrum-444444?style=flat" />
-  <img src="https://img.shields.io/badge/Kanban-444444?style=flat" />
-</p>
-
-### Inteligência artificial no desenvolvimento
-
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" />
-</p>
-
-Uso IA como apoio em desenvolvimento, análise de código, testes, documentação e estudo técnico.
+</div>
 
 ---
 
-## 📌 Projetos
+## Projetos em destaque
 
-### 💰 FinTrack — Controle Financeiro Pessoal
+Dois projetos públicos que mostram como penso, implemento e valido soluções. Cada um tem código, decisões técnicas e registros do que foi realmente testado.
 
-Aplicação web para controle de receitas, despesas e saldo, com autenticação via Google, dados separados por usuário e interface responsiva.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · <a href="https://github.com/ViniciusBzm/artefact-ai-engineer">Empório da Música</a></h3>
+      <p><strong>Agente de atendimento com IA e regras verificáveis</strong></p>
+      <p>Um agente em Python que interpreta perguntas com a OpenAI API, consulta dados em SQLite e aplica regras de preço, promoções, políticas e autorização de pedidos no código — sem deixar o modelo inventar fatos do catálogo.</p>
+      <p><code>Python</code> <code>OpenAI API</code> <code>SQLite</code> <code>pytest</code> <code>GitHub Actions</code></p>
+      <p><strong>Evidências:</strong> 138 testes aprovados na suíte padrão (7 opcionais ignorados), avaliação offline de 26/26 cenários e CI aprovado em Python 3.10 e 3.12.</p>
+      <p><a href="https://github.com/ViniciusBzm/artefact-ai-engineer">Código</a> · <a href="https://github.com/ViniciusBzm/artefact-ai-engineer/blob/main/docs/ARCHITECTURE.md">Arquitetura</a> · <a href="https://github.com/ViniciusBzm/artefact-ai-engineer/blob/main/docs/VALIDATION.md">Validação</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · <a href="https://github.com/ViniciusBzm/homelab">HomeLab</a></h3>
+      <p><strong>Linux, redes e Docker em hardware de baixo custo</strong></p>
+      <p>Um Dell Wyse 7020 com Debian 12 usado para explorar administração remota, diagnóstico de rede e containers. Documentei configurações, falhas encontradas, medições e decisões de implementação.</p>
+      <p><code>Debian</code> <code>SSH</code> <code>Docker</code> <code>Redes</code> <code>PowerShell</code></p>
+      <p><strong>Evidências:</strong> acesso SSH validado após reinício, execução de containers de teste e registros de consumo de recursos. A conectividade após reinicialização ainda está em investigação.</p>
+      <p><a href="https://github.com/ViniciusBzm/homelab">Documentação</a> · <a href="https://github.com/ViniciusBzm/homelab/blob/main/docs/arquitetura.md">Arquitetura</a> · <a href="https://github.com/ViniciusBzm/homelab/blob/main/docs/proximos-passos.md">Próximos passos</a></p>
+    </td>
+  </tr>
+</table>
 
-**Tecnologias:**
-`React` `Vite` `Tailwind CSS` `Firebase Auth` `LocalStorage` `Git/GitHub`
+## Como trabalho
 
-**Status:** Em desenvolvimento
+| Construir | Verificar | Documentar |
+| :--- | :--- | :--- |
+| Separar responsabilidades, explicitar regras de negócio e integrar serviços. | Criar testes reproduzíveis, analisar falhas e validar comportamentos críticos. | Registrar decisões, limitações e evidências para facilitar manutenção e evolução. |
 
----
+## Tecnologias e ferramentas
 
-### 📊 LeadFlow — Mini CRM de Leads e Clientes
+<div align="center">
 
-Aplicação web para cadastro, organização e acompanhamento de leads e clientes, com busca, filtros, organização por status e armazenamento local dos dados.
+  <img src="https://skillicons.dev/icons?i=python,ts,react,sqlite,docker,linux,git,github&theme=dark" alt="Python, TypeScript, React, SQLite, Docker, Linux, Git e GitHub">
 
-**Tecnologias:**
-`React` `Vite` `Tailwind CSS` `JavaScript` `LocalStorage` `Git/GitHub`
+</div>
 
-**Status:** Em desenvolvimento
+**Desenvolvimento:** Python, TypeScript, JavaScript, React e SQL  
+**IA aplicada:** OpenAI API, function calling, avaliação de respostas e controle de custos  
+**Qualidade:** pytest, testes de integração, testes de regressão e CI  
+**Infraestrutura:** Linux, SSH, Docker e diagnóstico de redes
 
----
+## Formação
 
-### 🎵 Casa do Hip Hop
-
-Projeto desenvolvido em equipe durante o programa **Vem Ser Dev — PECEGE**.
-
-Atuei no front-end com construção e ajustes de telas, responsividade, componentização, versionamento com Git/GitHub e validação manual das funcionalidades.
-
-**Tecnologias:**
-`React` `TypeScript` `HTML` `CSS` `Tailwind CSS`
-
----
-
-## 📚 Projetos acadêmicos
-
-Durante a graduação em Análise e Desenvolvimento de Sistemas, desenvolvi projetos envolvendo desenvolvimento web, banco de dados, programação orientada a objetos, requisitos e UX/UI.
-
-### 📖 Sistema Web para Biblioteca Universitária
-
-Sistema acadêmico desenvolvido para gerenciamento de livros utilizando Java Web, arquitetura MVC e conceitos de programação orientada a objetos.
-
-**Tecnologias:**
-`Java` `Servlets` `JSP/JSF` `MVC` `POO`
-
----
-
-### 🎮 Banco de Dados para Locadora de Jogos
-
-Projeto de modelagem conceitual, lógica e física de um banco de dados relacional para gerenciamento de clientes, jogos e locações.
-
-**Tecnologias:**
-`SQL` `MySQL` `Modelagem de Dados` `DER`
+- **Pós-graduação em Qualidade e Teste de Software** · UniCesumar · concluída em 2026
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** · UniCesumar · concluído em 2025
 
 ---
 
-### 🚗 Sistema de Vendas de Carros
+<div align="center">
 
-Projeto desenvolvido em Java aplicando conceitos de programação orientada a objetos e regras de negócio.
+  <p><strong>Aberto a oportunidades em desenvolvimento de software, IA aplicada e qualidade.</strong></p>
 
-**Tecnologias:**
-`Java` `POO`
+  <p><a href="https://www.linkedin.com/in/vinicius-zem/">LinkedIn</a> · <a href="mailto:viniciusbzem.dev@gmail.com">E-mail</a> · <a href="https://github.com/ViniciusBzm?tab=repositories">Repositórios</a></p>
 
----
-
-### 🛒 Protótipo de Sistema de Pedidos
-
-Projeto acadêmico envolvendo levantamento de requisitos, definição de fluxos e prototipação de interface.
-
-**Práticas:**
-`Requisitos` `UX/UI` `Prototipação`
-
----
-
-## 🎓 Formação
-
-### Pós-graduação em Qualidade e Teste de Software
-
-**UniCesumar** — Cursando
-
-### Tecnólogo em Análise e Desenvolvimento de Sistemas
-
-**UniCesumar** — Concluído em 2025
-
----
-
-## 📖 Cursos
-
-* **Desenvolvimento de Software Júnior — Vem Ser Dev | PECEGE** — 174h
-* **Santander 2026 — AI React Front-end | DIO** — Em andamento
-* **Inteligência Artificial: Conceitos e Práticas | Senac** — Em andamento
-* **Bootcamp Corpay — Back-end do Zero à Prática | DIO** — Em andamento
-
----
-
-## 📚 Atualmente estudando
-
-* React e TypeScript
-* Integração e consumo de APIs REST
-* Testes de API com Postman
-* Playwright e Cypress
-* Qualidade e automação de testes
-* CI/CD e boas práticas de desenvolvimento
-* Inteligência Artificial aplicada ao desenvolvimento
-
----
-
-## 📫 Contato
-
-[viniciusbzem.dev@gmail.com](mailto:viniciusbzem.dev@gmail.com) 📧
-[github.com/ViniciusBzm](https://github.com/ViniciusBzm) 🐙
-[linkedin.com/in/vinicius-zem](https://www.linkedin.com/in/vinicius-zem/) 💼
+</div>
