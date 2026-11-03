@@ -1,176 +1,42 @@
-# 👋 Olá, eu sou o Vinicius Zem
+# Vinicius Zem
 
-## Desenvolvedor de Software Júnior | React | TypeScript | Qualidade de Software
+**Desenvolvedor de software júnior · Python, React e TypeScript · IA aplicada e testes**
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso pós-graduação em **Qualidade e Teste de Software**.
+Construo software com atenção às regras de negócio, à segurança dos dados e à forma de verificar o resultado. Meus projetos públicos mostram decisões de arquitetura, código, testes e registros de validação.
 
-Tenho foco em desenvolvimento front-end com **React, TypeScript, JavaScript, HTML, CSS e Tailwind CSS**, trabalhando com interfaces responsivas e componentizadas.
+## Projetos para conhecer primeiro
 
-Também tenho conhecimentos em **Git/GitHub, SQL, MySQL, Java, testes manuais, validação de funcionalidades e documentação de bugs**.
+### [Agente de atendimento — Artefact AI Engineer](https://github.com/ViniciusBzm/artefact-ai-engineer)
 
----
+Agente em Python para consultas de catálogo, promoções, pedidos e políticas de uma loja de instrumentos musicais. O modelo interpreta a pergunta e escolhe uma ferramenta; o código valida a chamada, consulta dados em SQLite e compõe respostas com fontes. O acesso a pedidos exige autenticação local e verificação de propriedade.
 
-## 🧰 Tecnologias
+**Tecnologias:** Python, SQLite, OpenAI Responses API, pytest e GitHub Actions.
 
-### Front-end
+**Evidências:** [arquitetura e decisões](https://github.com/ViniciusBzm/artefact-ai-engineer/blob/main/docs/ARCHITECTURE.md), [conversas registradas](https://github.com/ViniciusBzm/artefact-ai-engineer/tree/main/examples), [testes e avaliação](https://github.com/ViniciusBzm/artefact-ai-engineer/blob/main/docs/VALIDATION.md), [CI](https://github.com/ViniciusBzm/artefact-ai-engineer/actions).
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" />
-</p>
+### [HomeLab — Linux, rede e containers](https://github.com/ViniciusBzm/homelab)
 
-### Desenvolvimento e dados
+Laboratório com Debian 12 em um Dell Wyse 7020. Documentei a configuração de acesso SSH, o diagnóstico de rede e os primeiros experimentos com Docker, incluindo comandos, medições e pendências após reinicialização.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,mysql,git,github" />
-</p>
+**Tecnologias:** Debian, SSH, Docker, Docker Compose e PowerShell.
 
-### Qualidade e testes
+**Evidências:** [base Debian e SSH](https://github.com/ViniciusBzm/homelab/blob/main/docs/marcos/M0-base-debian-ssh.md), [experimento com Docker](https://github.com/ViniciusBzm/homelab/blob/main/docs/marcos/M1-primeiro-experimento-docker.md), [arquitetura](https://github.com/ViniciusBzm/homelab/blob/main/docs/arquitetura.md).
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postman" />
-</p>
+## Competências demonstradas
 
-<p>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Testes%20Manuais-444444?style=flat" />
-  <img src="https://img.shields.io/badge/Casos%20de%20Teste-444444?style=flat" />
-  <img src="https://img.shields.io/badge/Validação%20de%20Funcionalidades-444444?style=flat" />
-</p>
+| Área | Prática e evidência |
+|---|---|
+| Desenvolvimento | Python e TypeScript; interfaces com React; separação de responsabilidades e validação de dados |
+| Backend | Consultas parametrizadas em SQLite, regras de preço, controle de acesso a pedidos e integração com API |
+| IA aplicada | Chamadas estruturadas de ferramentas, limites de contexto, avaliação por cenários e controle de gastos |
+| Testes e qualidade | pytest, testes de integração, avaliação offline, casos com API real, revisão de fontes e CI |
+| Infraestrutura | Administração Debian por SSH, diagnóstico de conectividade, Docker e leitura de recursos |
 
-### Ferramentas
+## Formação
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,figma,vscode" />
-</p>
+- Tecnólogo em Análise e Desenvolvimento de Sistemas — UniCesumar, concluído em 2025.
+- Pós-graduação em Qualidade e Teste de Software — UniCesumar, concluída em 2026.
 
-<p>
-  <img src="https://img.shields.io/badge/Scrum-444444?style=flat" />
-  <img src="https://img.shields.io/badge/Kanban-444444?style=flat" />
-</p>
+## Contato
 
-### Inteligência artificial no desenvolvimento
-
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" />
-</p>
-
-Uso IA como apoio em desenvolvimento, análise de código, testes, documentação e estudo técnico.
-
----
-
-## 📌 Projetos
-
-### 💰 FinTrack — Controle Financeiro Pessoal
-
-Aplicação web para controle de receitas, despesas e saldo, com autenticação via Google, dados separados por usuário e interface responsiva.
-
-**Tecnologias:**
-`React` `Vite` `Tailwind CSS` `Firebase Auth` `LocalStorage` `Git/GitHub`
-
-**Status:** Em desenvolvimento
-
----
-
-### 📊 LeadFlow — Mini CRM de Leads e Clientes
-
-Aplicação web para cadastro, organização e acompanhamento de leads e clientes, com busca, filtros, organização por status e armazenamento local dos dados.
-
-**Tecnologias:**
-`React` `Vite` `Tailwind CSS` `JavaScript` `LocalStorage` `Git/GitHub`
-
-**Status:** Em desenvolvimento
-
----
-
-### 🎵 Casa do Hip Hop
-
-Projeto desenvolvido em equipe durante o programa **Vem Ser Dev — PECEGE**.
-
-Atuei no front-end com construção e ajustes de telas, responsividade, componentização, versionamento com Git/GitHub e validação manual das funcionalidades.
-
-**Tecnologias:**
-`React` `TypeScript` `HTML` `CSS` `Tailwind CSS`
-
----
-
-## 📚 Projetos acadêmicos
-
-Durante a graduação em Análise e Desenvolvimento de Sistemas, desenvolvi projetos envolvendo desenvolvimento web, banco de dados, programação orientada a objetos, requisitos e UX/UI.
-
-### 📖 Sistema Web para Biblioteca Universitária
-
-Sistema acadêmico desenvolvido para gerenciamento de livros utilizando Java Web, arquitetura MVC e conceitos de programação orientada a objetos.
-
-**Tecnologias:**
-`Java` `Servlets` `JSP/JSF` `MVC` `POO`
-
----
-
-### 🎮 Banco de Dados para Locadora de Jogos
-
-Projeto de modelagem conceitual, lógica e física de um banco de dados relacional para gerenciamento de clientes, jogos e locações.
-
-**Tecnologias:**
-`SQL` `MySQL` `Modelagem de Dados` `DER`
-
----
-
-### 🚗 Sistema de Vendas de Carros
-
-Projeto desenvolvido em Java aplicando conceitos de programação orientada a objetos e regras de negócio.
-
-**Tecnologias:**
-`Java` `POO`
-
----
-
-### 🛒 Protótipo de Sistema de Pedidos
-
-Projeto acadêmico envolvendo levantamento de requisitos, definição de fluxos e prototipação de interface.
-
-**Práticas:**
-`Requisitos` `UX/UI` `Prototipação`
-
----
-
-## 🎓 Formação
-
-### Pós-graduação em Qualidade e Teste de Software
-
-**UniCesumar** — Cursando
-
-### Tecnólogo em Análise e Desenvolvimento de Sistemas
-
-**UniCesumar** — Concluído em 2025
-
----
-
-## 📖 Cursos
-
-* **Desenvolvimento de Software Júnior — Vem Ser Dev | PECEGE** — 174h
-* **Santander 2026 — AI React Front-end | DIO** — Em andamento
-* **Inteligência Artificial: Conceitos e Práticas | Senac** — Em andamento
-* **Bootcamp Corpay — Back-end do Zero à Prática | DIO** — Em andamento
-
----
-
-## 📚 Atualmente estudando
-
-* React e TypeScript
-* Integração e consumo de APIs REST
-* Testes de API com Postman
-* Playwright e Cypress
-* Qualidade e automação de testes
-* CI/CD e boas práticas de desenvolvimento
-* Inteligência Artificial aplicada ao desenvolvimento
-
----
-
-## 📫 Contato
-
-[viniciusbzem.dev@gmail.com](mailto:viniciusbzem.dev@gmail.com) 📧
-[github.com/ViniciusBzm](https://github.com/ViniciusBzm) 🐙
-[linkedin.com/in/vinicius-zem](https://www.linkedin.com/in/vinicius-zem/) 💼
+[LinkedIn](https://www.linkedin.com/in/vinicius-zem/) · [E-mail](mailto:viniciusbzem.dev@gmail.com)
