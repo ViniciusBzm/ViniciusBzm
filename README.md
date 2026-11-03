@@ -1,14 +1,14 @@
 <div align="center">
 
-  <sub>DESENVOLVIMENTO DE SOFTWARE · IA APLICADA · QUALIDADE</sub>
+  <p><sub>DESENVOLVIMENTO DE SOFTWARE &nbsp;·&nbsp; IA APLICADA &nbsp;·&nbsp; QUALIDADE</sub></p>
 
-  # Vinicius Zem
+  <h1>Vinicius Zem</h1>
 
-  **Construo, testo e explico o que entrego.**
+  <p><strong>Construo, testo e explico o que entrego.</strong></p>
 
-  Desenvolvedor de Software Júnior com formação em Análise e Desenvolvimento de Sistemas e pós-graduação em Qualidade e Teste de Software.
+  <p>Desenvolvedor de Software Júnior, formado em Análise e Desenvolvimento de Sistemas<br>e pós-graduado em Qualidade e Teste de Software.</p>
 
-  Gosto de transformar problemas em soluções que possam ser **compreendidas, verificadas e evoluídas** — do código às decisões de arquitetura.
+  <p>Transformo problemas em soluções que possam ser <strong>compreendidas, verificadas e evoluídas</strong>.</p>
 
   <a href="https://www.linkedin.com/in/vinicius-zem/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:viniciusbzem.dev@gmail.com"><img src="https://img.shields.io/badge/E--mail-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
@@ -71,8 +71,8 @@ Dois projetos públicos que mostram como penso, implemento e valido soluções. 
 
 <div align="center">
 
-  **Aberto a oportunidades em desenvolvimento de software, IA aplicada e qualidade.**
+  <p><strong>Aberto a oportunidades em desenvolvimento de software, IA aplicada e qualidade.</strong></p>
 
-  <a href="https://www.linkedin.com/in/vinicius-zem/">LinkedIn</a> · <a href="mailto:viniciusbzem.dev@gmail.com">E-mail</a> · <a href="https://github.com/ViniciusBzm?tab=repositories">Repositórios</a>
+  <p><a href="https://www.linkedin.com/in/vinicius-zem/">LinkedIn</a> · <a href="mailto:viniciusbzem.dev@gmail.com">E-mail</a> · <a href="https://github.com/ViniciusBzm?tab=repositories">Repositórios</a></p>
 
 </div>
